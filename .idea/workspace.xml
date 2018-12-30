@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52b3c2c3-6aad-4543-84d0-3abeb1a63202" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.flake8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,20 +21,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="75" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/.flake8">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -58,9 +45,9 @@
       <list>
         <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/app/.flake8" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -164,17 +151,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="75" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/.flake8">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
         </state>
       </provider>
     </entry>
